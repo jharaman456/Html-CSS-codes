@@ -1,0 +1,19 @@
+* {
+    padding: 5px;
+    margin: 5px;
+}
+
+.container{
+    background-color: plum;
+    height: 100vh;
+    display: flex;
+}
+.Item{
+    background-color:  lightblue;
+    height:100px;
+    width: 300px;
+    padding: 50px;
+    margin: 50px;
+    row-gap: 5px;
+    text-align: center;
+}
